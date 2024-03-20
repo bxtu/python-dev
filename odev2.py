@@ -4,9 +4,6 @@ import string
 def is_letter(char):
     return char.isalpha()
 
-def convert_to_lowercase(string):
-
-    return string.lower()
 
 def count_uppercase(string):
     count = 0
